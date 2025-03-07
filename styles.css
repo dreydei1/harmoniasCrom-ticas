@@ -1,0 +1,96 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #bee9e8;
+    color: #333;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #bee9e8;
+    color: rgb(14, 12, 12);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Corpo principal */
+main {
+    padding: 20px;
+}
+
+
+/* Títulos das seções */
+h2 {
+    text-decoration: underline;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: #5a5a5a;
+}
+
+/* Balões/caixas de texto */
+    
+    h1{ 
+    color: #5a5a5a;
+    font-size: 25px;
+    background-color: #e1f5e1; /* Cor de fundo suave */
+    border-radius: 15px; /* Bordas arredondadas */
+    padding: px; /* Espaçamento dentro da caixa */
+    margin-bottom: 20px; /* Espaçamento entre os balões */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    
+}
+ul{color: #000000;
+    background-color: #62b6cb; /* Cor de fundo suave */
+    border-radius: 15px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento dentro da caixa */
+    margin-bottom: 20px; /* Espaçamento entre os balões */
+    box-shadow: 0 4px 8px rgba(248, 247, 247, 0.1); /* Sombra suave */
+    font-size: 1.1rem;}
+p {
+    color: #000000;
+    background-color: #62b6cb; /* Cor de fundo suave */
+    border-radius: 15px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento dentro da caixa */
+    margin-bottom: 20px; /* Espaçamento entre os balões */
+    box-shadow: 0 4px 8px rgba(248, 247, 247, 0.1); /* Sombra suave */
+    font-size: 1.1rem;
+   
+}
+
+/* Lista de harmonias cromáticas */
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+ul li a {
+    color: #5c5c5c;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+#primeiroParagrafo{
+    margin: 20px;
+}
